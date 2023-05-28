@@ -1,5 +1,5 @@
 # Remote theme directory
-remote_theme: analytics-link/analytics-link.github.io
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-paginate
@@ -17,7 +17,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "Windhoek, Namibia"
-resume_url: /docs/resume.docx
+resume_url: /docs/Ronaldo.pdf
 avatar_image: /img/profile_picture.jpg
 
 #-------------------------------
